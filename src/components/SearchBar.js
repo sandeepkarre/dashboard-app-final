@@ -1,0 +1,1 @@
+import React from 'react';const SearchBar=({searchTerm,setSearchTerm})=>(<input type='text' placeholder='Search Widgets...' value={searchTerm} onChange={e=>setSearchTerm(e.target.value)} className='border rounded px-3 py-2 w-64'/>);export default SearchBar;

@@ -31,11 +31,18 @@ I decided to use **React with TypeScript** and managed the state with **Redux To
    git clone https://github.com/<your-username>/dashboard-assignment-react.git
    cd dashboard-assignment-react
    
-Install the dependencies:npm install
-Start the dev server: npm run dev
+Install the dependencies:
+
+npm install
 
 
-Open http://localhost:5173 in your browser.
+Start the dev server:
+
+npm run dev
+
+
+Open http://localhost:5173
+ in your browser.
 
 (Optional) To create a production build:
 
